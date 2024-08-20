@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi 👋, I'm John Rey Millor</h1>
-<h3 align="center">As a passionate IT Student and full-stack developer, I excel in front-end development with back-end skills from Philippines</h3>
+<h3 align="center">As a passionate IT Student and full-stack developer, I excel in front-end development with back-end skills </h3>
 
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=MillorJ&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MillorJ&theme=tokyonight) |
