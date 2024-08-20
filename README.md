@@ -10,7 +10,7 @@
 
 ### My Topic
 
-- 🌱 I’m currently learning **Node.js with Express.js, Advanced React Patterns**
+- 🌱 I’m currently learning **Node.js with Express.js, Advanced React Patterns, Vue.js**
 
 - 💬 Ask me about **Front-End Development**
 
