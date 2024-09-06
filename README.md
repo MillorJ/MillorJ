@@ -4,7 +4,7 @@
 <h3 align="center">As a passionate IT Student and full-stack developer, I excel in front-end development with back-end skills </h3>
 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=MillorJ&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MillorJ&theme=tokyonight) |
+| ![MillorJ's github stats](https://github-readme-stats.vercel.app/api?username=MillorJ&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MillorJ&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MillorJ&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MillorJ&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
