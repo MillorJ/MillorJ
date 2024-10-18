@@ -1,3 +1,27 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Rey+Millor!;" />
+</h1>
+
+<h3 align="center">A Full Time Freelance Full Stack Developer 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **private projects for my US Client**
+ 
+ 🌱 I’m currently learning **Python, Django, FastAPI, Supabase, and GraphQL**
+
+💬 Ask me about **Front-end and Back-end development**
+
+⚡ Fun fact: **I enjoy learning from YouTube tutorials and free online resources, as it often feels more practical than traditional classroom learning.**
+ 
+</div>
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/johnrey.millor)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/john_rey_z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MillorJ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MillorJ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@millorj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Millor51706) 
