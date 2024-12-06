@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Rey+Millor!;" />
 </h1>
 
-<h3 align="center">A Full Time Freelance Full Stack Developer from PH</h3>
+<h3 align="center">Full Stack Software Engineer at AiBuildiQ </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **private projects for my US Client**
+ 🔭 I’m currently working on **Projects for the AiBuildiQ**
  
  🌱 I’m currently learning **Python, Django, FastAPI, Supabase, and GraphQL**
 
