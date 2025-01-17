@@ -20,6 +20,8 @@
  
 </div>
 
+![snake gif](https://github.com/MillorJ/MillorJ/blob/output/github-snake-dark.svg)
+
 
 
 
