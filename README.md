@@ -1,25 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Rey+Millor!;" />
-</h1>
-
-<h3 align="center"> Full Stack Software Engineer at AiBuildiQ 🇺🇸 </h3>
-<h3 align="center"> Blockchain Engineeer at RRES 🇺🇸  </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Projects for the AiBuildiQ and RRES **
- 
- 🌱 I’m currently learning **Python, Django, FastAPI, Supabase, and GraphQL**
-
-💬 Ask me about **Front-end and Back-end development**
-
-⚡ Fun fact: **I enjoy learning from YouTube tutorials and free online resources, as it often feels more practical than traditional classroom learning.**
- 
-</div>
 
 ![snake gif](https://github.com/MillorJ/MillorJ/blob/output/github-snake-dark.svg)
 
