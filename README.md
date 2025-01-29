@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Projects for the AiBuildiQ**
+ 🔭 I’m currently working on **Projects for the AiBuildiQ and RRES **
  
  🌱 I’m currently learning **Python, Django, FastAPI, Supabase, and GraphQL**
 
