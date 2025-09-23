@@ -14,17 +14,17 @@
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
-- 🚀 **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
-- 💡 Skilled in building **scalable applications**, **intelligent assistants**, and **robust APIs**.  
-- 🌍 Experienced in working with teams across **Philippines, US, and Australia**.  
-- 🌱 Currently deep-diving into **AI orchestration, cloud-native apps, and intelligent frameworks**.  
-- 🎯 Passionate about **delivering seamless digital experiences** and solving complex problems.  
+- **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
+- Skilled in building **scalable applications**, **intelligent assistants**, and **robust APIs**.  
+- Experienced in working with teams across **Philippines, US, and Australia**.  
+- Currently deep-diving into **AI orchestration, cloud-native apps, and intelligent frameworks**.  
+- Passionate about **delivering seamless digital experiences** and solving complex problems.  
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 ### Languages  
 <p>
@@ -87,4 +87,4 @@
 
 ---
 
-<h5 align="center">✨ Full Stack AI & Software Engineer | Always Building. Always Learning. ✨</h5>
+<h5 align="center"> Full Stack AI & Software Engineer | Always Building. Always Learning. </h5>
