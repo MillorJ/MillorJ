@@ -6,6 +6,8 @@
   Hi, I'm John Rey Millor 👋
 </h3>
 
+<p align="center"><i>Note: Most of my professional projects are under <b>NDA</b>
+   
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20AI%20%26%20Software%20Engineer;Building%20Scalable%20Apps%20%26%20AI%20Solutions;Always%20Learning%20and%20Innovating;Let’s%20Build%20Great%20Things%20Together!&center=true&width=550&height=45">
@@ -14,8 +16,7 @@
 
 ---
 
-##  About Me  
-- **All of my project are under NDA**.  
+##  About Me   
 - **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
 - Skilled in building **scalable applications**, **intelligent assistants**, and **robust APIs**.  
 - Experienced in working with teams across **Philippines, US, Singapore, New Zealand, India and Australia**.  
