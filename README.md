@@ -5,8 +5,6 @@
 <h3 align="center">
   Hi, I'm John Rey Millor 👋
 </h3>
-
-<p align="center"><i>Note: Most of my professional projects are under <b>NDA</b>
    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,6 +12,7 @@
   </a>
 </p>
 
+<p align="center"><i>Note: Most of my professional projects are under <b>NDA</b>
 ---
 
 ##  About Me   
