@@ -15,7 +15,7 @@
 ---
 
 ##  About Me  
-
+- **All of my project are under NDA**.  
 - **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
 - Skilled in building **scalable applications**, **intelligent assistants**, and **robust APIs**.  
 - Experienced in working with teams across **Philippines, US, Singapore, New Zealand, India and Australia**.  
