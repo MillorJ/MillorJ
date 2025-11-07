@@ -12,8 +12,8 @@
   </a>
 </p>
 
+
 <p align="center"><i>Note: Most of my professional projects are under <b>NDA</b>
----
 
 ##  About Me   
 - **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
