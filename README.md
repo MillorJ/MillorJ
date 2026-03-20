@@ -16,7 +16,7 @@
 <p align="center"><i>Note: Most of my projects are under <b>NDA</b>
 
 ##  About Me   
-- **Full Stack AI & Software Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
+- **Full Stack Sofware & AI Engineer** with hands-on experience in **frontend, backend, AI, and cloud infrastructure**.  
 - Skilled in building **scalable applications**, **intelligent assistants**, and **robust APIs**.  
 - Experienced in working with teams across **Philippines, US, Singapore, New Zealand, India and Australia**.  
 - Currently deep-diving into **AI orchestration, cloud-native apps, and intelligent frameworks**.  
