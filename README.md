@@ -26,10 +26,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <details>
-  <summary><b>🔧 Backend & Systems</b></summary>
+  <summary><b> Backend & Systems</b></summary>
   <br />
 
   ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b>🤖 AI & Machine Learning</b></summary>
+  <summary><b> AI & Machine Learning</b></summary>
   <br />
 
   ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-  <summary><b>🎨 Frontend & Mobile</b></summary>
+  <summary><b> Frontend & Mobile</b></summary>
   <br />
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary><b>⚙️ DevOps & Tools</b></summary>
+  <summary><b> DevOps & Tools</b></summary>
   <br />
 
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
@@ -114,7 +114,7 @@
 </details>
 
 <details>
-  <summary><b>💡 Philosophy</b></summary>
+  <summary><b> Philosophy</b></summary>
   <br />
 
 ```txt
