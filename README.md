@@ -26,84 +26,101 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
-</p>
+<details>
+  <summary><b>🔧 Backend & Systems</b></summary>
+  <br />
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite"/>
-</p>
+  ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+  ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+  ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+  ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+  ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+  ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+  ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel"/>
-</p>
+</details>
 
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
-</p>
+<details>
+  <summary><b>🤖 AI & Machine Learning</b></summary>
+  <br />
 
-### API, Automation & AI
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
-</p>
+  ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+  ![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge)
+  ![Gemini](https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google)
+  ![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikitlearn)
+  ![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=keras)
+  ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge)
+  ![Semantic Search](https://img.shields.io/badge/Semantic_Search-000?style=for-the-badge)
+  ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-000?style=for-the-badge)
+  ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+  ![Zapier](https://img.shields.io/badge/Zapier-000?style=for-the-badge&logo=zapier)
+  ![Make](https://img.shields.io/badge/Make-000?style=for-the-badge)
 
-### DevOps & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean"/>
-</p>
+</details>
 
-### Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion"/>
-</p>
+<details>
+  <summary><b>🎨 Frontend & Mobile</b></summary>
+  <br />
 
-### Also Working With
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+  ![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+  ![jQuery](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jquery)
+
+</details>
+
+<details>
+  <summary><b>⚙️ DevOps & Tools</b></summary>
+  <br />
+
+  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+  ![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)
+  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
+  ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+  ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+  ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
+  ![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=for-the-badge&logo=digitalocean)
+  ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+  ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+  ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+  ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
+
+</details>
+
+<details>
+  <summary><b>💡 Philosophy</b></summary>
+  <br />
+
 ```txt
-REST API, WebSocket, JWT, Webhooks, Zapier, Make, n8n, OpenAI, Claude, Gemini,
-Ollama, pgvector, RAG, Semantic Search, Vector Embeddings, Prometheus, Grafana,
-Postman, Stripe, Twilio, HubSpot, WordPress, Selenium, pytest, JUnit
+Build scalable systems.
+Ship useful products.
+Automate boring work.
+Design for clarity.
+Optimize for real users.
+Keep learning.
